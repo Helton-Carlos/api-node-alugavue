@@ -1,0 +1,9 @@
+[
+    {
+      "titulo": "casa1",
+      "valor": "R$ 1,5000",
+      "id_colaborador": 1,
+      "img": "require('../../assets/comum.png')",
+      "id_aplicativo_inicial": 0
+      }
+]
