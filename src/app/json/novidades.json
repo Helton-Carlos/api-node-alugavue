@@ -1,20 +1,24 @@
 [
-    {
-      "id":1,
-      "titulo": ">Apartamento 1 quarto para alugar 45m²",
-      "valor": "R$ 1,5000",
-      "id_colaborador": 1,
-      "img": "require('../assets/ap-01.png')",
-      "banheiro": 1,
-      "quarto":1,
-      "garagem":true,
-      "codigo": 30301,
-      "disponivel":true,
-      "metros":"45m²",
-      "rua":"amazonas",
-      "numero":15,
-      "bairro":"panorama",
-      "cidade":"Paulo-Afonso",
-      "estado":"Bahia"
-    }
+  {
+    "id": 1,
+    "titulo": "Apartamento 1 quarto para alugar 45m²",
+    "valor": "R$ 1,5000",
+    "id_colaborador": 1,
+    "img": "require('../assets/ap-01.png')",
+    "banheiro": 1,
+    "quarto": 1,
+    "garagem": true,
+    "codigo": 30301,
+    "disponivel": true,
+    "metros": "45m²",
+    "endereco": [
+      {
+        "rua": "amazonas",
+        "numero": 15,
+        "bairro": "panorama",
+        "cidade": "Paulo-Afonso",
+        "estado": "Bahia"
+      }
+    ]
+  }
 ]
