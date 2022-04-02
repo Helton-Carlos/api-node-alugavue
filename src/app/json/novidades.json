@@ -10,6 +10,11 @@
       "garagem":true,
       "codigo": 30301,
       "disponivel":true,
-      "metros":"45m²"
+      "metros":"45m²",
+      "rua":"amazonas",
+      "numero":15,
+      "bairro":"panorama",
+      "cidade":"Paulo-Afonso",
+      "estado":"Bahia"
     }
 ]
