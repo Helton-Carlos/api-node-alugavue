@@ -26,7 +26,7 @@
     "id": 2,
     "titulo": "Casa, 2 quarto para alugar 125m²",
     "tipo":"casa",
-    "valor": "R$ 1,100",
+    "valor": "R$ 1.100",
     "id_colaborador": 1,
     "img": "ap-02.png",
     "banheiro": 2,
@@ -48,7 +48,7 @@
   {
     "id": 3,
     "titulo": "Apartamento, 3 quarto para alugar 140m²",
-    "valor": "R$ 1,500",
+    "valor": "R$ 1.500",
     "tipo":"apartamento",
     "id_colaborador": 1,
     "img": "ap-03.png",
@@ -62,7 +62,7 @@
       {
         "rua": "Dario Carlos",
         "numero": 27,
-        "bairro": "BTN-2",
+        "bairro": "Centenário",
         "cidade": "Paulo-Afonso",
         "estado": "Bahia"
       }
@@ -72,7 +72,7 @@
     "id": 4,
     "titulo": "Casa, 3 quarto para alugar 153m²",
     "tipo":"casa",
-    "valor": "R$ 1,300",
+    "valor": "R$ 1.300",
     "id_colaborador": 1,
     "img": "ap-04.png",
     "banheiro": 2,
@@ -85,7 +85,7 @@
       {
         "rua": "São Francisco",
         "numero": 19,
-        "bairro": "Centro",
+        "bairro": "Abel Barbosa",
         "cidade": "Paulo-Afonso",
         "estado": "Bahia"
       }
@@ -95,7 +95,7 @@
     "id": 5,
     "titulo": "Apartamento, 4 quarto para alugar 170m²",
     "tipo":"apartamento",
-    "valor": "R$ 1,350",
+    "valor": "R$ 1.250",
     "id_colaborador": 1,
     "img": "ap-05.png",
     "banheiro": 2,
@@ -108,7 +108,7 @@
       {
         "rua": "Dario Carlos",
         "numero": 12,
-        "bairro": "BTN-2",
+        "bairro": "Marina França",
         "cidade": "Paulo-Afonso",
         "estado": "Bahia"
       }
@@ -118,7 +118,7 @@
     "id": 6,
     "titulo": "Apartamento, 2 quarto para alugar 100m²",
     "tipo":"apartamento",
-    "valor": "R$ 1,200",
+    "valor": "R$ 1.200",
     "id_colaborador": 1,
     "img": "ap-06.png",
     "banheiro": 2,
@@ -131,7 +131,7 @@
       {
         "rua": "Santos Brito",
         "numero": 20,
-        "bairro": "BTN-3",
+        "bairro": "Jardim Bahia",
         "cidade": "Paulo-Afonso",
         "estado": "Bahia"
       }
