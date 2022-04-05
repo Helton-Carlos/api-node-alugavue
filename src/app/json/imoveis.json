@@ -1,0 +1,348 @@
+[
+    {
+      "id": 1,
+      "titulo": "kit-net, 1 quarto para alugar 45m²",
+      "tipo":"kit-net",
+      "valor": "R$ 500,00",
+      "id_colaborador": 1,
+      "img": "ap-01.png",
+      "banheiro": 1,
+      "quarto": 1,
+      "garagem": true,
+      "codigo": 30301,
+      "disponivel": true,
+      "metros": "45m²",
+      "endereco": [
+        {
+          "rua": "Amazonas",
+          "numero": 15,
+          "bairro": "BNH",
+          "cidade": "Paulo-Afonso",
+          "estado": "Bahia"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "titulo": "Casa, 2 quarto para alugar 125m²",
+      "tipo":"casa",
+      "valor": "R$ 1.100",
+      "id_colaborador": 1,
+      "img": "ap-02.png",
+      "banheiro": 2,
+      "quarto": 2,
+      "garagem": false,
+      "codigo": 30302,
+      "disponivel": false,
+      "metros": "125m²",
+      "endereco": [
+        {
+          "rua": "Getulio Vargas",
+          "numero": 105,
+          "bairro": "Centro",
+          "cidade": "Paulo-Afonso",
+          "estado": "Bahia"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "titulo": "Apartamento, 3 quarto para alugar 140m²",
+      "valor": "R$ 1.500",
+      "tipo":"apartamento",
+      "id_colaborador": 1,
+      "img": "ap-03.png",
+      "banheiro": 2,
+      "quarto": 3,
+      "garagem": true,
+      "codigo": 30303,
+      "disponivel": true,
+      "metros": "45m²",
+      "endereco": [
+        {
+          "rua": "Dario Carlos",
+          "numero": 27,
+          "bairro": "Centro",
+          "cidade": "Paulo-Afonso",
+          "estado": "Bahia"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "titulo": "Casa, 3 quarto para alugar 153m²",
+      "tipo":"casa",
+      "valor": "R$ 1.300",
+      "id_colaborador": 1,
+      "img": "ap-04.png",
+      "banheiro": 2,
+      "quarto": 3,
+      "garagem": true,
+      "codigo": 30304,
+      "disponivel": true,
+      "metros": "153m²",
+      "endereco": [
+        {
+          "rua": "São Francisco",
+          "numero": 19,
+          "bairro": "Abel Barbosa",
+          "cidade": "Paulo-Afonso",
+          "estado": "Bahia"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "titulo": "Apartamento, 4 quarto para alugar 170m²",
+      "tipo":"apartamento",
+      "valor": "R$ 1.250",
+      "id_colaborador": 1,
+      "img": "ap-05.png",
+      "banheiro": 2,
+      "quarto": 3,
+      "garagem": true,
+      "codigo": 30305,
+      "disponivel": true,
+      "metros": "170m²",
+      "endereco": [
+        {
+          "rua": "Dario Carlos",
+          "numero": 12,
+          "bairro": "BNH",
+          "cidade": "Paulo-Afonso",
+          "estado": "Bahia"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "titulo": "Apartamento, 2 quarto para alugar 100m²",
+      "tipo":"apartamento",
+      "valor": "R$ 1.200",
+      "id_colaborador": 1,
+      "img": "ap-06.png",
+      "banheiro": 2,
+      "quarto": 2,
+      "garagem": false,
+      "codigo": 30306,
+      "disponivel": true,
+      "metros": "100m²",
+      "endereco": [
+        {
+          "rua": "Santos Brito",
+          "numero": 20,
+          "bairro": "Tancredo Neves I",
+          "cidade": "Paulo-Afonso",
+          "estado": "Bahia"
+        }
+      ]
+    },
+    {
+        "id": 7,
+        "titulo": "Casa, 2 quarto para alugar 125m²",
+        "tipo":"casa",
+        "valor": "R$ 1.100",
+        "id_colaborador": 1,
+        "img": "ap-07.png",
+        "banheiro": 2,
+        "quarto": 2,
+        "garagem": false,
+        "codigo": 30302,
+        "disponivel": false,
+        "metros": "125m²",
+        "endereco": [
+          {
+            "rua": "Getulio Vargas",
+            "numero": 105,
+            "bairro": "Abel Barbosa",
+            "cidade": "Paulo-Afonso",
+            "estado": "Bahia"
+          }
+        ]
+      },
+      {
+        "id": 8,
+        "titulo": "Apartamento, 3 quarto para alugar 140m²",
+        "valor": "R$ 1.500",
+        "tipo":"casa",
+        "id_colaborador": 1,
+        "img": "ap-08.png",
+        "banheiro": 2,
+        "quarto": 3,
+        "garagem": true,
+        "codigo": 30303,
+        "disponivel": true,
+        "metros": "45m²",
+        "endereco": [
+          {
+            "rua": "Tancredo Neves I",
+            "numero": 27,
+            "bairro": "Centro",
+            "cidade": "Paulo-Afonso",
+            "estado": "Bahia"
+          }
+        ]
+      },
+      {
+        "id": 9,
+        "titulo": "Casa, 3 quarto para alugar 153m²",
+        "tipo":"casa",
+        "valor": "R$ 1.300",
+        "id_colaborador": 1,
+        "img": "ap-09.png",
+        "banheiro": 2,
+        "quarto": 3,
+        "garagem": true,
+        "codigo": 30304,
+        "disponivel": true,
+        "metros": "153m²",
+        "endereco": [
+          {
+            "rua": "São Francisco",
+            "numero": 19,
+            "bairro": "Tancredo Neves I",
+            "cidade": "Paulo-Afonso",
+            "estado": "Bahia"
+          }
+        ]
+      },
+      {
+        "id": 10,
+        "titulo": "kit-net, 1 quarto para alugar 153m²",
+        "tipo":"kit-net",
+        "valor": "R$ 1.300",
+        "id_colaborador": 1,
+        "img": "ap-10.png",
+        "banheiro": 2,
+        "quarto": 3,
+        "garagem": true,
+        "codigo": 30304,
+        "disponivel": true,
+        "metros": "153m²",
+        "endereco": [
+          {
+            "rua": "São Francisco",
+            "numero": 19,
+            "bairro": "Tancredo Neves I",
+            "cidade": "Paulo-Afonso",
+            "estado": "Bahia"
+          }
+        ]
+      },
+      {
+        "id": 11,
+        "titulo": "kit-net, 1 quarto para alugar 70m²",
+        "tipo":"kit-net",
+        "valor": "R$ 1.250",
+        "id_colaborador": 1,
+        "img": "ap-11.png",
+        "banheiro": 1,
+        "quarto": 1,
+        "garagem": true,
+        "codigo": 30305,
+        "disponivel": true,
+        "metros": "70m²",
+        "endereco": [
+          {
+            "rua": "Dario Carlos",
+            "numero": 12,
+            "bairro": "BNH",
+            "cidade": "Paulo-Afonso",
+            "estado": "Bahia"
+          }
+        ]
+      },
+      {
+        "id": 12,
+        "titulo": "kit-net, 1 quarto para alugar 50m²",
+        "tipo":"kit-net",
+        "valor": "R$ 1.200",
+        "id_colaborador": 1,
+        "img": "ap-12.png",
+        "banheiro": 1,
+        "quarto": 1,
+        "garagem": false,
+        "codigo": 30306,
+        "disponivel": true,
+        "metros": "50m²",
+        "endereco": [
+          {
+            "rua": "Santos Brito",
+            "numero": 20,
+            "bairro": "Tancredo Neves I",
+            "cidade": "Paulo-Afonso",
+            "estado": "Bahia"
+          }
+        ]
+      },
+      {
+        "id": 13,
+        "titulo": "apartamento, 2 quarto para alugar 125m²",
+        "tipo":"apartamento",
+        "valor": "R$ 1.100",
+        "id_colaborador": 1,
+        "img": "ap-13.png",
+        "banheiro": 2,
+        "quarto": 2,
+        "garagem": false,
+        "codigo": 30302,
+        "disponivel": false,
+        "metros": "125m²",
+        "endereco": [
+          {
+            "rua": "Getulio Vargas",
+            "numero": 105,
+            "bairro":  "Abel Barbosa",
+            "cidade": "Paulo-Afonso",
+            "estado": "Bahia"
+          }
+        ]
+      },
+      {
+        "id": 14,
+        "titulo": "apartamento, 2 quarto para alugar 125m²",
+        "tipo":"apartamento",
+        "valor": "R$ 1.000",
+        "id_colaborador": 1,
+        "img": "ap-14.png",
+        "banheiro": 2,
+        "quarto": 2,
+        "garagem": false,
+        "codigo": 30302,
+        "disponivel": false,
+        "metros": "125m²",
+        "endereco": [
+          {
+            "rua": "Getulio Vargas",
+            "numero": 105,
+            "bairro": "Abel Barbosa",
+            "cidade": "Paulo-Afonso",
+            "estado": "Bahia"
+          }
+        ]
+      },
+      {
+        "id": 15,
+        "titulo": "apartamento, 2 quarto para alugar 125m²",
+        "tipo":"apartamento",
+        "valor": "R$ 1.500",
+        "id_colaborador": 1,
+        "img": "ap-15.png",
+        "banheiro": 2,
+        "quarto": 2,
+        "garagem": false,
+        "codigo": 30302,
+        "disponivel": false,
+        "metros": "125m²",
+        "endereco": [
+          {
+            "rua": "Getulio Vargas",
+            "numero": 105,
+            "bairro": "Tancredo Neves I",
+            "cidade": "Paulo-Afonso",
+            "estado": "Bahia"
+          }
+        ]
+      }
+  ]
+  
